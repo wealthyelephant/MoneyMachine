@@ -9,9 +9,10 @@ Blockchain validation and decentralized storage have long struggled with ineffic
 ✅ **AI-Driven Validator Optimization** – Enhancing staking efficiency, yield, and uptime.  
 ✅ **Decentralized Compute Monetization** – Expanding beyond storage to execute AI and Web3 cloud workloads.  
 ✅ **Multi-Chain Validator Strategy** – Seamlessly validating Filecoin, Polkadot, Algorand, Cosmos, Ethereum, Chainlink, and Flux.  
-✅ **Enterprise-Grade Redundancy & Security** – Robust risk segmentation, failover automation, and self-healing nodes.  
+✅ **Enterprise-Grade Redundancy & Security** – Robust risk segmentation, failover automation, and self-healing nodes.
+✅ **Solar-Powered & Battery-Backed Infrastructure** – Ensuring 24/7 uptime with renewable energy and enterprise-grade power redundancy.
 
-## **🛠 Hardware & Infrastructure**
+## **🛠 Computer Hardware**
 Money Machine operates on a **high-performance, scalable Lenovo hardware stack**, ensuring top-tier reliability, redundancy, and energy efficiency:
 
 | **Blockchain/Role** | **Assigned Lenovo Server** | **Core Specs** |
@@ -25,6 +26,43 @@ Money Machine operates on a **high-performance, scalable Lenovo hardware stack**
 | **Cosmos Hub Validator** | Lenovo SE450 #2 | Intel Xeon Silver 4310, 2TB NVMe, 10GbE Fiber |
 | **Flux Compute Node** | Lenovo SE350 #2 | Intel Xeon D-2100, 1TB NVMe, 1GbE |
 | **Filecoin Backup & Replication Node** | Lenovo SR650 V2 #3 | Intel Xeon 8352V, 1 PiB HDD Backup, Dual 10GbE |
+
+## **⚡ Power & Redundancy Infrastructure**
+💡 **Purpose:** Ensuring uninterrupted uptime to prevent financial losses and validator slashing.
+
+| **Item** | **Specs** |
+|---------|----------|
+| **Tesla Powerwall 3 (x2)** | 27 kWh total storage, 11.5 kW output |
+| **Automatic Transfer Switch (ATS)** | Grid-to-battery switch, seamless failover |
+| **Whole-Home Surge Protector** | Prevents hardware damage |
+| **APC Smart-UPS 5000VA (x2)** | Short-term backup before Powerwall kicks in |
+
+---
+
+## **🌐 Networking & Internet**
+💡 **Purpose:** Filecoin punishes delayed proof submission → High-speed fiber + failover backup are essential.
+
+| **Item** | **Specs** |
+|---------|----------|
+| **Google Fiber 8 Gbps Upgrade** | Low-latency, symmetrical 8 Gbps fiber |
+| **Starlink Business (Backup ISP)** | 150-500 Mbps, global failover backup |
+| **Enterprise 10GbE Network Switch (x2)** | Ubiquiti UniFi Switch Aggregation Pro (28-port) |
+| **Firewall & Physical VPN Router** | Enterprise-grade security, DDoS protection |
+| **Dual ISP Failover Router** | Auto-switch between Google Fiber & Starlink |
+
+---
+
+## **❄️ Server Rack, Cooling & Ventilation**
+💡 **Purpose:** Heat management = hardware longevity.
+
+| **Item** | **Specs** |
+|---------|----------|
+| **42U Server Rack** | Holds all Lenovo servers, cabling, and power |
+| **Rack PDU (Power Distribution Unit, x2)** | Intelligent PDU with monitoring |
+| **Industrial Exhaust Fan System** | Removes hot air from server room |
+| **Dedicated AC Unit** | Cools servers, prevents thermal throttling |
+| **Temperature & Humidity Sensors** | Remote monitoring for temperature control |
+
 
 ## **📌 Features & Capabilities**
 🚀 **AI-Powered Validator Optimization** – Self-healing nodes, predictive resource allocation, and automated failover.  

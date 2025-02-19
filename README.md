@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/License-MoneyMachine%20Hybrid-blue.svg)
+
 # 🚀 Money Machine: AI-Optimized Decentralized Compute & Validation Infrastructure
 
 ## **🌍 Introduction**
